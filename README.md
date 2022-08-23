@@ -17,7 +17,7 @@ This repository is for SQL exercises done by me while learning and Practicing SQ
 
 ### List of Topics I learnt : ###
 
-CSCM59 Swansea University: Relational and Object-Oriented Database Systems
+***CSCM59 Swansea University: Relational and Object-Oriented Database Systems***
 * database system architecture.
 * Data models: relational databases, object databases.
 * Relational databases: the structure of the relational model, integrity constraints, relational
@@ -28,6 +28,15 @@ concurrency control.
 databases.
 * Data warehouses and data mining, data visualisation.
 * Web technology and databases
+
+***W3Schools.com***
+* SQL Database
+* SQL DML
+* SQL DQL
+* SQL DCL
+* SQL DDL
+* SQL TCL
+
 
 
 
