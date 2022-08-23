@@ -29,13 +29,30 @@ databases.
 * Data warehouses and data mining, data visualisation.
 * Web technology and databases
 
-***W3Schools.com***
+***SQL Basics Topics - W3Schools.com***
 * SQL Database
 * SQL DML
 * SQL DQL
 * SQL DCL
 * SQL DDL
 * SQL TCL
+
+***SQL Analytics Training - Mode.com***
+* About Analytics Training
+* Investigating a Drop in User Engagement
+* Understanding Search Functionality
+* Validating A/B Test Results
+* SQL Tutorial Conclusion
+
+***Advanced SQL***
+* SQL Data Types
+* SQL Date Format
+* Data Wrangling with SQL
+* Using SQL String Functions to Clean Data
+* Writing Subqueries in SQL
+* SQL Window Functions
+* Performance Tuning SQL Queries
+* Pivoting Data in SQL
 
 
 I Hope this repo helped you to assess my skills in SQL or had fun in learning SQL from the sources.
